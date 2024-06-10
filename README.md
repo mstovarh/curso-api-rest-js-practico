@@ -3,7 +3,7 @@ MovieMix es una página personalizada basada en FastAPI con fetch inicialmente y
 
 ## ✨Logo
 
-![android-chrome-512x512](https://github.com/mstovarh/movieland-curso-api-rest-js-practico/assets/107591274/8e0beb98-bf59-42b2-b052-dfb175cc106b)
+![android-chrome-192x192](https://github.com/mstovarh/movieland-curso-api-rest-js-practico/assets/107591274/a2dbc364-0e42-4431-ac67-e50b7c90cf22)
 
 Creado con: <a>https://favicon.io/favicon-generator/</a>
 
