@@ -130,4 +130,5 @@ dist
 .pnp.*
 
 # claves.js (API KEY)
-src/claves.js
+inputSinAxios.js
+./src/secret.js
